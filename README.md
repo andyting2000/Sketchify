@@ -15,7 +15,7 @@
 4. In the command prompt, navigate to the folder in which the file `streamlit_app.py` is located. For example:
    
    ```Bash
-   cd /users/user_name/Downloads/Sketchify-master/
+   cd /users/user_name/Downloads/Sketchify-main/
 
 6. Run `streamlit_app.py` using the following command:
     
