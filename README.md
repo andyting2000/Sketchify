@@ -1,5 +1,5 @@
 # Sketchify
-- An enhanced pencil sketch generator web application without Artificial Intelligence (AI).
+- An enhanced pencil sketch generator web application without AI.
 # The Link to the Demo Web Application
 - https://sketchify-generator.streamlit.app
 # Requirement
